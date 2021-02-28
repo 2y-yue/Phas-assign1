@@ -48,16 +48,16 @@ This project contained two different method("Normal Equation Method" and "Gradie
 
 \<Options\>: \
 
-    |arguement                  |Desciption                                            |Default Value|
-    |---------------------------|------------------------------------------------------|-------------|
-    |-h,--help                  ｜Show this help message| |.
-    |-s,--datasize              ｜Specify the datasize for DataCreator.                ｜ \<Default Value\> int 100|
-    |-par1,--theta0             ｜Specify the value of theta 0 for DataCreator.        ｜ \<Default Value> double 1|
-    |-par2,--theta1             ｜Specify the value of theta 1 for DataCreator.        ｜ \<Default Value> double 2|
-    |-f,--filepath              ｜Specify the filepath for FileLoader. | | 
-    |-m,--method<Compulsory>    ｜Specify the method name for Solver.   -"NormalEquation"  or  "GradientDescent" | |
-    |-i,--iterations            ｜Specify the maximium iterations for GradientDescent Solver.  ｜ \<Default Value> int 100; |
-    |-e,--eta                   ｜Specify the Learning rate value for GradientDescent Solver.  ｜ \<Default Value> double 0.01|
+    |arguement                  |Desciption                                            |Default Value            |
+    |---------------------------|------------------------------------------------------|-------------------------|
+    |-h,--help                  ｜Show this help message.| 
+    |-s,--datasize              ｜Specify the datasize for DataCreator.                ｜ <Default Value\> int 100|
+    |-par1,--theta0             ｜Specify the value of theta 0 for DataCreator.        ｜ <Default Value> double 1|
+    |-par2,--theta1             ｜Specify the value of theta 1 for DataCreator.        ｜ <Default Value> double 2|
+    |-f,--filepath              ｜Specify the filepath for FileLoader. |
+    |-m,--method<Compulsory>    ｜Specify the method name for Solver.   -"NormalEquation"  or  "GradientDescent" .|
+    |-i,--iterations            ｜Specify the maximium iterations for GradientDescent Solver.  ｜ <Default Value> int 100; |
+    |-e,--eta                   ｜Specify the Learning rate value for GradientDescent Solver.  ｜ <Default Value> double 0.01|
 
 **Example Code**
 
