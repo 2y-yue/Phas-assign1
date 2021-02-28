@@ -33,6 +33,7 @@ Build and run instructions are left as an excercise for the student. Examples of
 - CMake 3.16.3
 
 **Build Code**
+
 ‘cd yourfilepath’
 'mkdir build'
 'cd build'
@@ -44,6 +45,7 @@ Project Instructions
 This project contained two different method("Normal Equation Method" and "Gradient Descent Method") to solve parameters for the linear equations($ y=\theta_0+ \theta_x+ noise$). There are two ways for getting data, either randomly generating data or reading a specific txt file.
 
 **Arguement  Instructions** 
+
 <Options>: 
     -h,--help                  Show this help message.
     -s,--datasize              Specify the datasize for DataCreator.                <Default Value> int 100
@@ -55,4 +57,5 @@ This project contained two different method("Normal Equation Method" and "Gradie
     -e,--eta                   Specify the Learning rate value for GradientDescent Solver.  <Default Value> double 0.01; 
 
 **Example Code**
+
 './lrgFitDataApp -m NormalEquation -f ../../Testing/Data/TestData1.txt'
