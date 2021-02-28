@@ -47,9 +47,10 @@ This project contained two different method("Normal Equation Method" and "Gradie
 **Arguement  Instructions** 
 
 ### Options: 
+
 |arguement                   |Desciption                                                 |Value                                   |
 |----------------------------|-----------------------------------------------------------|----------------------------------------|
-|-h,--help;                 ｜Show this help message.                                    |none                                    | 
+|-h,--help                   |Show this help message.                                    |none                                    | 
 
 
 
