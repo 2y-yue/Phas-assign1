@@ -47,9 +47,9 @@ This project contained two different method("Normal Equation Method" and "Gradie
 **Arguement  Instructions** 
 
 ### Options: 
-|arguement                  |Desciption                                                    |Value                                  |
-|:------------------------- |:------------------------------------------------------------:|:-------------------------------------:|
-|-h,--help                  ｜Show this help message.                                      |                                        | 
+|arguement                  |Desciption                                                    |Value                                   |
+|-------------------------- |--------------------------------------------------------------|----------------------------------------|
+|-h,--help                  ｜Show this help message.                                      |.                                       | 
 |-s,--datasize              ｜Specify the datasize for DataCreator .                       ｜ <Default Value\> int 100              |
 |-par1,--theta0             ｜Specify the value of theta 0 for DataCreator.                ｜ <Default Value> double 1              |
 |-par2,--theta1             ｜Specify the value of theta 1 for DataCreator.                ｜ <Default Value> double 2              |
