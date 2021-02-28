@@ -34,19 +34,18 @@ Build and run instructions are left as an excercise for the student. Examples of
 
 **Build Code**
 
-‘cd yourfilepath’\
-'mkdir build'\
-'cd build'\
-'cmake ..'\
-'make'
+<pre><code>cd yourfilepath
+mkdir build
+cd build
+cmake ..
+make
+</code></pre>
 
 Project Instructions
 --------------------
 This project contained two different method("Normal Equation Method" and "Gradient Descent Method") to solve parameters for the linear equations($ y=\theta_0+ \theta_x+ noise$). There are two ways for getting data, either randomly generating data or reading a specific txt file.
 
 **Arguement  Instructions** 
-
-Options: 
 |arguement                   |Desciption                                                 |Value                                   |
 |----------------------------|-----------------------------------------------------------|----------------------------------------|
 |-h,--help                   |Show this help message.                                    |.                                       | 
