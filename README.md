@@ -32,7 +32,8 @@ Build and run instructions are left as an excercise for the student. Examples of
 - Ubuntu 20.04 
 - CMake 3.16.3
 
-**Build Code**
+**Build Code**\
+
 ‘cd yourfilepath’\
 'mkdir build'\
 'cd build'\
@@ -45,9 +46,9 @@ This project contained two different method("Normal Equation Method" and "Gradie
 
 **Arguement  Instructions** 
 
-<Options>: \
+\<Options\>: \
     -h,--help                  Show this help message.
-    -s,--datasize              Specify the datasize for DataCreator.                <Default Value> int 100\
+    -s,--datasize              Specify the datasize for DataCreator.                \<Default Value\> int 100\
     -par1,--theta0             Specify the value of theta 0 for DataCreator.        <Default Value> double 1\
     -par2,--theta1             Specify the value of theta 1 for DataCreator.        <Default Value> double 2\
     -f,--filepath              Specify the filepath for FileLoader \
