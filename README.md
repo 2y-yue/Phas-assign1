@@ -33,7 +33,8 @@ Build and run instructions are left as an excercise for the student. Examples of
 - CMake 3.16.3
 
 **Build Code**
-
+<code>
+’code‘
 ‘cd yourfilepath’
 'mkdir build'
 'cd build'
