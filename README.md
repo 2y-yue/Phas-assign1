@@ -46,7 +46,7 @@ This project contained two different method("Normal Equation Method" and "Gradie
 
 **Arguement  Instructions** 
 
-\<Options\>: \
+<Options>: 
 
     |arguement                  |Desciption                                            |Default Value            |
     |---------------------------|------------------------------------------------------|-------------------------|
